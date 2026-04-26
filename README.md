@@ -3,6 +3,8 @@
 I build AI-native platforms and agentic systems that turn complex workflows into scalable, production-ready infrastructure.
 My work focuses on payments, onboarding, claims, and data systems in high-scale, regulated environments.
 
+**Portfolio -** https://github.com/akash-dasmondal/AI-Native-Product-Portfolio
+
 **What I Work On**
 
 **AI & Agentic Systems**
