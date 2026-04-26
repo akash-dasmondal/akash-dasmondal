@@ -1,5 +1,5 @@
-**Hi, I’m Akash Dasmondal 👋
-**
+**Hi, I'm Akash 👋**
+
 I build **AI-native platforms and agentic systems** that turn complex workflows into scalable, production-ready infrastructure.
 
 Most of my work focuses on **real-world systems—payments**, onboarding, claims, and data platforms—designed for **high-scale, regulated environments.**
