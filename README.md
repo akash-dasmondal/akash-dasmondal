@@ -1,10 +1,4 @@
-## Hi there 👋
-
-<!--
-**akash-dasmondal/akash-dasmondal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+Hi there 👋
 🔭 I’m currently working on AI-native platforms and agentic systems for onboarding, payments, and workflow automation
 🌱 I’m currently learning advanced agentic architectures, RAG systems, and AI-driven decision engines
 👯 I’m looking to collaborate on AI agents, payment systems, and scalable platform products
@@ -14,4 +8,3 @@ Here are some ideas to get you started:
 🧠 I focus on translating complex systems into scalable products with clear metrics, trade-offs, and long-term architecture thinking
 📫 How to reach me: akashdm.work@gmail.com
 ⚡ Fun fact: I enjoy simplifying complex, regulated ecosystems into scalable and reliable systems
--->
