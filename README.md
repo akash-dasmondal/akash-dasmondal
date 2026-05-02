@@ -25,17 +25,17 @@ My work focuses on payments, onboarding, claims, and data systems in high-scale,
 
 **What I Work On**
 
-    **AI & Agentic Systems**
+   **AI & Agentic Systems**
 
-          - AI agents for automation and decision workflows, Multi-step systems with tool orchestration and intelligent execution
+        - AI agents for automation and decision workflows, Multi-step systems with tool orchestration and intelligent execution
 
 **Platform & Infrastructure**
 
-          - API-first platforms and distributed systems, Scalable architectures for high-volume, compliance-heavy ecosystems
+        - API-first platforms and distributed systems, Scalable architectures for high-volume, compliance-heavy ecosystems
 
 **AI Applications**
 
-         - Document intelligence and data extraction, LLM-powered search and RAG workflows
+        - Document intelligence and data extraction, LLM-powered search and RAG workflows
 
 **How I Build**
  - Focus on working systems, not just concepts
@@ -45,7 +45,7 @@ My work focuses on payments, onboarding, claims, and data systems in high-scale,
 
 **About Me**
 
-- Product Manager with experience across BFSI, payments, healthcare, and data platforms, building 0→1 products into production-grade systems.Strong focus on platform strategy, system thinking, and scalable impact.
+Product Manager with experience across BFSI, payments, healthcare, and data platforms, building 0→1 products into production-grade systems.Strong focus on platform strategy, system thinking, and scalable impact.
 
 **Let’s Connect**
 
