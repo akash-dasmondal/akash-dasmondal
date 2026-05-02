@@ -9,7 +9,7 @@ My work focuses on payments, onboarding, claims, and data systems in high-scale,
  
       🤖 How to Use Akina ?
  
-         🔗 Click on the portfolio link - **https://capable-cactus-28606c.netlify.app/**
+         🔗 Click on the portfolio link - https://capable-cactus-28606c.netlify.app/
  
              👋 Akina will appear on the screen to assist you
  
