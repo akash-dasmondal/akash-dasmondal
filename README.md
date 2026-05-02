@@ -3,13 +3,20 @@
 I build AI-native platforms and agentic systems that turn complex workflows into scalable, production-ready infrastructure.
 My work focuses on payments, onboarding, claims, and data systems in high-scale, regulated environments.
 
-**Personal Website - https://capable-cactus-28606c.netlify.app/**        
-**Wanna Know more Akina can help **
+**Portfolio - https://capable-cactus-28606c.netlify.app/**        
+
+**Wanna Know more about me Akina can help **
+ 
  🤖 How to Use Akina
+ 
  🔗 Click on the portfolio link
+ 
  👋 Akina will appear on the screen to assist you
+ 
  💬 Click on the chat icon
+ 
  ❓ Ask anything about Akash (projects, skills, experience)
+ 
  🌐 Chat in English, Hindi, or Hinglish — sab chalega!
 
 ✨ That’s it — explore my portfolio through a conversation!
