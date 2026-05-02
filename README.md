@@ -3,7 +3,7 @@
 I build AI-native platforms and agentic systems that turn complex workflows into scalable, production-ready infrastructure.
     My work focuses on payments, onboarding, claims, and data systems in high-scale, regulated environments.
 
-**Portfolio - https://capable-cactus-28606c.netlify.app/**        
+**Portfolio - https://career-at-a-glance.vercel.app/**        
 
 **Wanna Know more about me ❓ Akina can help you always 🤝**
  
