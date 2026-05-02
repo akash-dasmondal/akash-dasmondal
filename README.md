@@ -5,48 +5,47 @@ My work focuses on payments, onboarding, claims, and data systems in high-scale,
 
 **Portfolio - https://capable-cactus-28606c.netlify.app/**        
 
-**Wanna Know more about me Akina can help **
+**Wanna Know more about me ? Akina can help**
  
- 🤖 How to Use Akina
+      🤖 How to Use Akina
  
- 🔗 Click on the portfolio link
+         🔗 Click on the portfolio link
  
- 👋 Akina will appear on the screen to assist you
+             👋 Akina will appear on the screen to assist you
  
- 💬 Click on the chat icon
+                 💬 Click on the chat icon
  
- ❓ Ask anything about Akash (projects, skills, experience)
+                    ❓ Ask anything about Akash (projects, skills, experience)
  
- 🌐 Chat in English, Hindi, or Hinglish — sab chalega!
+                       🌐 Chat in English, Hindi, or Hinglish — sab chalega!
 
-✨ That’s it — explore my portfolio through a conversation!
+ ✨ That’s it — explore my portfolio through a conversation!
 
 **Live Projects URL - https://github.com/akash-dasmondal/AI-Native-Product-Portfolio**
 
 **What I Work On**
 
-**AI & Agentic Systems**
+    **AI & Agentic Systems**
 
-- AI agents for automation and decision workflows, Multi-step systems with tool orchestration and intelligent execution
+          - AI agents for automation and decision workflows, Multi-step systems with tool orchestration and intelligent execution
 
 **Platform & Infrastructure**
 
- - API-first platforms and distributed systems, Scalable architectures for high-volume, compliance-heavy ecosystems
+          - API-first platforms and distributed systems, Scalable architectures for high-volume, compliance-heavy ecosystems
 
 **AI Applications**
 
-- Document intelligence and data extraction, LLM-powered search and RAG workflows
+         - Document intelligence and data extraction, LLM-powered search and RAG workflows
 
 **How I Build**
-- Focus on working systems, not just concepts
-- Design for scale, reliability, and real-world constraints
-- Combine product thinking + system design + AI
-- Drive measurable business impact
+ - Focus on working systems, not just concepts
+ - Design for scale, reliability, and real-world constraints
+ - Combine product thinking + system design + AI
+ - Drive measurable business impact
 
 **About Me**
 
-- Product Manager with experience across BFSI, payments, healthcare, and data platforms, building 0→1 products into production-grade systems.
-- Strong focus on platform strategy, system thinking, and scalable impact.
+- Product Manager with experience across BFSI, payments, healthcare, and data platforms, building 0→1 products into production-grade systems.Strong focus on platform strategy, system thinking, and scalable impact.
 
 **Let’s Connect**
 
