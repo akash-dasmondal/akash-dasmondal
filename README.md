@@ -3,8 +3,8 @@
 I build AI-native platforms and agentic systems that turn complex workflows into scalable, production-ready infrastructure.
 My work focuses on payments, onboarding, claims, and data systems in high-scale, regulated environments.
 
-**Portfolio -** 
 **Personal Website - https://capable-cactus-28606c.netlify.app/**
+
 **Live Projects URL - https://github.com/akash-dasmondal/AI-Native-Product-Portfolio**
 
 **What I Work On**
