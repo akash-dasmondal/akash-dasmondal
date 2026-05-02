@@ -7,7 +7,7 @@ My work focuses on payments, onboarding, claims, and data systems in high-scale,
 
 **Wanna Know more about me ❓ Akina can help you always 🤝**
  
-      🤖 How to Use Akina ?
+      🤖 How to Use Akina ❓
  
          🔗 Click on the portfolio link - ☝️
  
