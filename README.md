@@ -19,7 +19,7 @@ My work focuses on payments, onboarding, claims, and data systems in high-scale,
  
                        🌐 Chat in English, Hindi, or Hinglish — sab chalega!
 
- ✨ That’s it — explore my portfolio through a conversation!
+ ✨ That’s it - explore my portfolio through a conversation!
 
 **Live Projects URL - https://github.com/akash-dasmondal/AI-Native-Product-Portfolio**
 
