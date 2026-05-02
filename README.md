@@ -1,7 +1,7 @@
 **Hi, I'm Akash 👋**
 
 I build AI-native platforms and agentic systems that turn complex workflows into scalable, production-ready infrastructure.
-My work focuses on payments, onboarding, claims, and data systems in high-scale, regulated environments.
+    My work focuses on payments, onboarding, claims, and data systems in high-scale, regulated environments.
 
 **Portfolio - https://capable-cactus-28606c.netlify.app/**        
 
@@ -45,10 +45,10 @@ My work focuses on payments, onboarding, claims, and data systems in high-scale,
 
 **About Me**
 
-Product Manager with experience across BFSI, payments, healthcare, and data platforms, building 0→1 products into production-grade systems.Strong focus on platform strategy, system thinking, and scalable impact.
+ Product Manager with experience across BFSI, payments, healthcare, and data platforms, building 0→1 products into production-grade        systems.Strong focus on platform strategy, system thinking, and scalable impact.
 
 **Let’s Connect**
 
-🌱 Exploring AI agents or scalable systems? Happy to collaborate.
+ 🌱 Exploring AI agents or scalable systems? Happy to collaborate.
 
 **📩 akashdm.work@gmail.com**
